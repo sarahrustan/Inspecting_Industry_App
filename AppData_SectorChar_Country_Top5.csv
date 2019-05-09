@@ -1,0 +1,10 @@
+﻿NAICS_Sector,NAICS_Descrip,Num_Injuries_Sector,Num_Employees,Pct_Total_Industry,,AppPct_Total_Industry,P_Ind_G_Inj
+23,Construction,1862,"6,252,378",0.025799611,,2.6,0.178284182
+31,Manufacturing,3434,"11,514,786",0.047514241,Recoded 31-33,4.8,0.328801226
+42,Wholesale Trade,573,"5,958,010",0.02458494,Recoded 44-45,2.5,0.054864037
+44,Retail,718,"15,955,383",0.065837778,,6.6,0.068747606
+56,Waste Management and Remediation Services,588,"7,515,440",0.031011469,,3.1,0.056300268
+Select,Top5,7175,"47,195,997",0.194748039,,19.5,0.686997319
+All,All,10444,"126,752,238",,,,
+,,,,,,,
+,,,,,,,
