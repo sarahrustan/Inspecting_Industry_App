@@ -5,3 +5,7 @@ Inspecting Industry was developed in four weeks as part of the Insight Data Scie
 The project combined data on severe workplace injuries from OSHA with data on the geographic distribution of the workforce by industry from County Business Patterns (US Census Bureau). Risk levels were predicted for 3,142 counties and 48 states using a Bayesian model implemented in Python, and these risk levels were used to optimize the allocation of OSHA's 2,100 employees.
 
 The Inspecting Industry App visualizes the geographic risk of severe workplace injury using R/Shiny.
+
+![Distribution of severe workplace injury risk in the continental US](preview_country_level.png)
+
+![Distribution of severe workplace injury risk in Wisconsin](preview_state_level_wi.png)
